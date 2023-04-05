@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BzYingxiaoApplication {
     public static void main(String[] args) {
 
-        System.out.println("11111111111111111111");
+        System.out.println("my");
         SpringApplication.run(BzYingxiaoApplication.class, args);
     }
 }
